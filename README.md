@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+GUILHERME!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+GUILHERME!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -22,11 +22,17 @@
 
 <div align="center" dir="auto" style="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black">
+ 
 <img align="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black">
+
 <img align="center" alt="html" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+
 <img align="center" alt="html" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
+
 <img align="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
 <img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
 <img align="center" alt="html" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </div><br/>
 
@@ -42,7 +48,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guismx&bg_color=000000&color=ffffff&line=ff0000&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guismx&bg_color=5c5c5c&color=ffffff&line=00bfff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
 </p>
