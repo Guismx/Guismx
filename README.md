@@ -12,7 +12,7 @@
 
 <div align="center" dir="auto><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
 
-<div align="center" dir="auto"">CONTATO</div>
+<div align="center" dir="auto"">CONTACT</div>
 
 
 
@@ -63,7 +63,7 @@
 <div align="center" dir="auto><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></div>
 
 
-<div align="center" dir="auto"> CONFIGURAÇÃO DA MÁQUINA 💻 </div>
+<div align="center" dir="auto"> CONFIGURATION OF MACHINE 💻 </div>
 
 
 <div align="center" dir="auto" style="display: inline_block"><br/>
