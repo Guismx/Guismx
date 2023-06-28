@@ -17,7 +17,7 @@
 
 
 <p align="center" dir="auto">
-  <a href="https://www.instagram.com/guiismx/ rel="nofollow">
+  <a href="https://www.instagram.com/guiismx/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/Lukas-Ramos/Lukas-Ramos/main/icons/gradient/instagram-512.png" width="35" style="max-width: 100%;">
   </a>
  
