@@ -74,12 +74,6 @@
 
 
 <div align="center" dir="auto">
-  <a href="http://www.github.com/Lukas-Ramos">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Guismx&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Lukas-Ramos's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Lukas-Ramos&amp;hide=&amp;count_private=true&amp;bg_color=0D1117&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
-  </a>
-  <a href="http://www.github.com/Lukas-Ramos">
-    <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guismx&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Lukas-Ramos Top Language" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Ramos&amp;langs_count=10&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">
-  </a>
   <a href="http://www.github.com/Guismx">
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Guismx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Guilherme-Rodrigues Github Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Ramos&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">
   </a>
