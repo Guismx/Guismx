@@ -50,6 +50,9 @@
     <a>
     <img src="https://github.com/Lukas-Ramos/Lukas-Ramos/blob/main/icons/gradient/visual-studio-code-2019-512.png?raw=true" width="35" style="max-width: 100%;">
   </a>
+    <a>
+    <img src="https://github.com/Lukas-Ramos/Lukas-Ramos/blob/main/icons/gradient/java-512.png?raw=true" width="35" style="max-width: 100%;">
+  </a>
 </p>
 
 
