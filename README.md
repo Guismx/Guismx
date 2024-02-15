@@ -4,7 +4,7 @@
 
 <div align="center" dir="auto><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
 
-<div align="center" dir="auto"">CONTACT</div>
+<div style="list-style-type: none" align="center" dir="auto"">CONTACT</div>
 
 <p align="center" dir="auto">
   <a href="https://www.instagram.com/guiismx/" rel="nofollow">
