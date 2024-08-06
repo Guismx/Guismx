@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=&amp;fontColor=8A2BE2&amp;animation=twinkling&amp;fontAlignY=32" width="100%" title="Guilherme-Rodrigues" alt="Guilherme-Rodrigues" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=&amp;fontColor=a600ff&amp;animation=twinkling&amp;fontAlignY=32" style="max-width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+GUILHERME!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+GUILHERME!;Curso+Ciência+da+Computação;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center" dir="auto><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
 
