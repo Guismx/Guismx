@@ -12,7 +12,7 @@
 <h3>⚙️ <strong>Focused on Java studies <img src="https://github.com/Guismx/Images-Icons/blob/main/java-512.png?raw=true" width="25" style="max-width: 100%;" ></strong>
 </h3>
   <hr data-sourcepos="29:1-30:0">
-<h3 align="center" dir="auto">☎️ Contact Me
+<h3 align="center" dir="auto">CONTACTS
 </h3>
   
 <div display=flex align="center" dir="auto">
