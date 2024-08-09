@@ -16,9 +16,9 @@
 </h3>
   
 <div display=flex align="center" dir="auto">
-     <a href="https://www.instagram.com/guiismx/" rel="nofollow"><img src="https://github.com/Guismx/Images-Icons/blob/main/instagram-512.png?raw=true" width="50" style="max-width: 100%;"></a>
-      <a href="https://www.linkedin.com/in/guilhermesmx" rel="nofollow"><img src="https://github.com/Guismx/Images-Icons/blob/main/linkedin-512.png?raw=true" width="50" style="max-width: 100%;"></a>
-      <a href="mailto:Guilhermesmx@gmail.com"><img src="https://github.com/Guismx/Images-Icons/blob/main/gmail-logo-512.png?raw=true" width="50" style="max-width: 100%;"></a>
+     <a href="https://www.instagram.com/guiismx/" rel="nofollow" target="_blank"><img src="https://github.com/Guismx/Images-Icons/blob/main/instagram-512.png?raw=true" width="50" style="max-width: 100%;"></a>
+      <a href="https://www.linkedin.com/in/guilhermesmx" rel="nofollow" target="_blank"><img src="https://github.com/Guismx/Images-Icons/blob/main/linkedin-512.png?raw=true" width="50" style="max-width: 100%;"></a>
+      <a href="mailto:Guilhermesmx@gmail.com" rel="nofollow" target="_blank"><img src="https://github.com/Guismx/Images-Icons/blob/main/gmail-logo-512.png?raw=true" width="50" style="max-width: 100%;"></a>
 </div>
 
   
