@@ -11,13 +11,14 @@
 </y3>
 <h3>⚙️ <strong>Focused on Java studies <img src="https://github.com/Guismx/Images-Icons/blob/main/java-512.png?raw=true" width="25" style="max-width: 100%;" ></strong>
 </h3>
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="width: 500px; display: flex;" data-target="animated-image.originalImage">
+  <hr data-sourcepos="29:1-30:0">
 <h3 align="center" dir="auto">☎️ Contact Me
 </h3>
-  <div display=flex align="center" dir="auto">
-      <img src="https://github.com/Guismx/Images-Icons/blob/main/instagram-512.png?raw=true" width="50" style="max-width: 100%;"><a href="https://www.instagram.com/guiismx/" rel="nofollow"></a>
-      <img src="https://github.com/Guismx/Images-Icons/blob/main/linkedin-512.png?raw=true" width="50" style="max-width: 100%;"><a href="https://www.linkedin.com/in/guilhermesmx" rel="nofollow"></a>
-      <img src="https://github.com/Guismx/Images-Icons/blob/main/gmail-logo-512.png?raw=true" width="50" style="max-width: 100%;"><a href="mailto:Guilhermesmx@gmail.com"></a>
+  
+<div display=flex align="center" dir="auto">
+     <a href="https://www.instagram.com/guiismx/" rel="nofollow"><img src="https://github.com/Guismx/Images-Icons/blob/main/instagram-512.png?raw=true" width="50" style="max-width: 100%;"></a>
+      <a href="https://www.linkedin.com/in/guilhermesmx" rel="nofollow"><img src="https://github.com/Guismx/Images-Icons/blob/main/linkedin-512.png?raw=true" width="50" style="max-width: 100%;"></a>
+      <a href="mailto:Guilhermesmx@gmail.com"><img src="https://github.com/Guismx/Images-Icons/blob/main/gmail-logo-512.png?raw=true" width="50" style="max-width: 100%;"></a>
 </div>
 
   
@@ -26,10 +27,9 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4447f4761e320cddb58547b32f5ff668a9a3d4e9b595c81580a0893d3cf89ad9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f477569736d783f6c6162656c3d466f6c6c6f77657273267374796c653d666c617426636f6c6f723d364135414344"><img src="https://camo.githubusercontent.com/4447f4761e320cddb58547b32f5ff668a9a3d4e9b595c81580a0893d3cf89ad9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f477569736d783f6c6162656c3d466f6c6c6f77657273267374796c653d666c617426636f6c6f723d364135414344" alt="Guilherme-Rodrigues" data-canonical-src="https://img.shields.io/github/followers/Guismx?label=Followers&amp;style=flat&amp;color=6A5ACD" style="max-width: 100%;"></a>
 </div>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="width: 1100px; display: flex;" data-target="animated-image.originalImage">
-
-<h1><img src="https://github.com/Guismx/Images-Icons/blob/main/icons8-development-96.png?raw=true" width="30" style="max-width: 100%;"> Languages && Tools</h1>
+<h1><img src="https://github.com/Guismx/Images-Icons/blob/main/icons8-development-96.png?raw=true" width="30" style="max-width: 100%;"><strong> Languages && Tools</strong> </h1>
 
 <h3>Lenguages</h3>
 <div style="Display: flex">
