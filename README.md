@@ -3,7 +3,7 @@
 <h1>Hello World, I'm Guilherme</h1>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow">
-  <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="ilustração de um computador" alt="ilustração de um computador" width="300px" align="right" style="max-width: 100%;">
+  <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="ilustração de um computador" alt="ilustração de um computador" width="290px" align="right" style="max-width: 100%;">
 <h3 align="left" dir="auto"> 
   🎓 <strong>Studying Computer Science</strong>
 </h3>
