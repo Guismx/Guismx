@@ -3,7 +3,7 @@
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
              
-      GUILHERME RODRIGUES
+                    GUILHERME RODRIGUES
        
 
 </p>
@@ -20,7 +20,7 @@
     │        └── /Wᴡɪɴᴅᴏᴡꜱ_𝟣0
     │
     ├── /𝐒𝐓𝐀𝐂𝐊𝐒 𝐎𝐅 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓
-    │    ├── ᴊᴀᴠᴀ
+    │    ├── ᴊᴀᴠᴀ 
     │    ├── sᴘʀɪɴɢ
     │    ├── ʀᴇᴀᴄᴛ
     │    ├── ᴀɴɢᴜʟᴀʀ
