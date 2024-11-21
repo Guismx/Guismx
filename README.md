@@ -42,7 +42,7 @@
     │    ├── 𝙎𝙐𝘽𝙇𝙄𝙈𝙀 𝙏𝙀𝙓𝙏
 
   <td style="width: 50%;">
-       <img src="https://i.pinimg.com/736x/24/57/81/2457810fa5a6461d3e5bf5a5d0646085.jpg" alt="Angel" style="width: 500px; height: 670px; border: none;"/>
+       <img src="https://github.com/Guismx/Guismx/blob/main/2457810fa5a6461d3e5bf5a5d0646085.jpg?raw=true" alt="Angel" style="width: 500px; height: 670px; border: none;"/>
     </td>
   </tr>
   
