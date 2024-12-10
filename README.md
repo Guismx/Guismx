@@ -45,7 +45,7 @@
 
 
   <td style="width: 50%;">
-       <img src="https://github.com/Guismx/Guismx/blob/main/2457810fa5a6461d3e5bf5a5d0646085.jpg?raw=true" alt="Angel" style="width: 500px; height: 680px; border: none;"/>
+       <img src="https://github.com/Guismx/Guismx/blob/main/2457810fa5a6461d3e5bf5a5d0646085.jpg?raw=true" alt="Angel" style="width: 500px; height: 685px; border: none;"/>
     </td>
   </tr>
   
