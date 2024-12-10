@@ -41,6 +41,7 @@
     │    ├── 𝙰𝙽𝙳R𝙾𝙸𝙳 𝚂𝚃𝚄𝙳𝙸𝙾
     │    ├── 𝚂𝚄𝙱𝙻𝙸𝙼𝙴 𝚃𝙴𝚇𝚃
 
+
   <td style="width: 50%;">
        <img src="https://github.com/Guismx/Guismx/blob/main/2457810fa5a6461d3e5bf5a5d0646085.jpg?raw=true" alt="Angel" style="width: 500px; height: 670px; border: none;"/>
     </td>
@@ -54,12 +55,6 @@
   </a>
   <a>
      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guismx&amp;langs_count=10&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guismx&amp;langs_count=10&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=4169E1" style="max-width: 100%;">
-  </a>
-</div>
-
-<div align="center" dir="auto" >
-  <a>
-    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Guismx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Guilherme-Rodrigues Github Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Guismx&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">
   </a>
 </div>
 </div>
