@@ -5,9 +5,6 @@
              
                     GUILHERME RODRIGUES
 <div display=flex align="center" dir="auto">
-     <a href="https://www.instagram.com/guiismx/" rel="nofollow" target="_blank"><img src="https://github.com/Guismx/Images-Icons/blob/main/instagram-512.png?raw=true" width="30" style="max-width: 100%;"></a>
-      <a href="https://www.linkedin.com/in/guilhermesmx" rel="nofollow" target="_blank"><img src="https://github.com/Guismx/Images-Icons/blob/main/linkedin-512.png?raw=true" width="30" style="max-width: 100%;"></a>
-      <a href="mailto:Guilhermesmx@gmail.com" rel="nofollow" target="_blank"><img src="https://github.com/Guismx/Images-Icons/blob/main/gmail-logo-512.png?raw=true" width="30" style="max-width: 100%;"></a>
 </div>
 
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
@@ -25,14 +22,14 @@
     │    ├── ᴊᴀᴠᴀ 
     │    ├── sᴘʀɪɴɢ
     │    ├── ᴀɴɢᴜʟᴀʀ
+    │    ├── ᴊᴀᴠᴀsᴄʀɪᴘᴛ
     │    ├── ᴛʏᴘᴇsᴄʀɪᴘᴛ
+    │    ├── sǫʟ 
     │    ├── ᴄ++
-    │    ├── ᴘʜᴘ
     │    ├── ᴘʏᴛʜᴏɴ
+    │    ├── ᴘʜᴘ
     │    ├── ʜᴛᴍʟ
     │    ├── ᴄss
-    │    ├── ᴊᴀᴠᴀsᴄʀɪᴘᴛ
-    │    ├── sǫʟ
     │    └── ʀᴇᴀᴄᴛ
     │
     └── /𝐓𝐎𝐎𝐋𝐒
@@ -43,9 +40,8 @@
     │    ├── 𝙰𝙽𝙳R𝙾𝙸𝙳 𝚂𝚃𝚄𝙳𝙸𝙾
     │    ├── 𝚂𝚄𝙱𝙻𝙸𝙼𝙴 𝚃𝙴𝚇𝚃
 
-
   <td style="width: 50%;">
-       <img src="https://github.com/Guismx/Guismx/blob/main/2457810fa5a6461d3e5bf5a5d0646085.jpg?raw=true" alt="Angel" style="width: 500px; height: 685px; border: none;"/>
+       <img src="https://github.com/Guismx/Guismx/blob/main/2457810fa5a6461d3e5bf5a5d0646085.jpg?raw=true" alt="Angel"  style="width: 500px; height: 730px; border: none;"/>
     </td>
   </tr>
   
